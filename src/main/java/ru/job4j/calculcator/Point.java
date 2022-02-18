@@ -16,11 +16,11 @@ public class Point {
         double result = Point.distance(0, 0, 2, 0);
         double result1 = Point.distance(2, 0, 4, 0);
         double result2 = Point.distance(2, 2, 6, 2);
-        double result3 = Point.distance(8, 4, 10, 12);
+        double result3 = Point.distance(48, 42, 22, 12);
 
         System.out.println("result (0, 0) to (2, 0) " + result);
         System.out.println("result (2, 0) to (4, 0) " + result1);
         System.out.println("result (2, 2) to (6, 2) " + result2);
-        System.out.println("result (8, 4) to (10, 12) " + result3);
+        System.out.println("result (48, 42) to (22, 12) " + result3);
     }
 }
