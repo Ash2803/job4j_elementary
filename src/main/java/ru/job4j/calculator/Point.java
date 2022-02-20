@@ -1,4 +1,4 @@
-package ru.job4j.calculcator;
+package ru.job4j.calculator;
 
 public class Point {
 
